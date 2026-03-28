@@ -1,0 +1,61 @@
+--- LOGIC & FLOW ---
+nyawit nih orang        => if
+67 nanggung rindu       => elif
+kebanyakan meratapi     => else
+tidak fantashh          => while
+19 jt                   => for
+pria sawit              => in
+mati                    => break
+pria etanol             => continue
+fomo                    => pass
+
+--- LOGIKA & OPERATOR ---
+pria 19 jt iq           => True
+pria solo               => False
+rakyat biasa            => None
+meta                    => and
+aldis burger            => or
+cempaka putih           => not
+roti lembut             => is
+juicy luicy             => ==
+riski febria            => !=
+
+--- FUNGSI & CLASS ---
+ireng                   => def
+balik                   => return
+kelass                  => class
+my                      => self
+my gw                   => __init__
+my in tain              => __main__
+
+--- BUILT-IN FUNCTIONS ---
+ibu bapak lu sehat      => print
+aldis burger cempaka putih rotinya lembut juicy luicy riski febria bisa beli online => input
+ga peduli               => str
+ga masalah              => int
+ga papa                 => float
+tertawa tapi terluka    => list
+broken                  => dict
+brutal                  => len
+ea                      => range
+angkat tangan           => sorted
+tau                     => sum
+kegedean                => max
+kekecilan               => min
+tembok ratapan          => round
+
+--- SYSTEM & FILE ---
+minyak sawit            => import
+seleb                   => from
+damn                    => as
+bro                     => with
+kebuka                  => open
+tni amerika             => global
+tni inggris             => os.system('clear')
+
+--- ERROR HANDLING ---
+coll i                  => try
+coolmax                 => except
+adalah pokoknya         => finally
+kulit lu warna apa bos  => raise
+

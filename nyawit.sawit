@@ -1,0 +1,26 @@
+Panggil bekingan random Alias rng
+
+Bikin jurus tebak_angka():
+    spill("=== GAME TEBAK ANGKA SAWIT ===")
+    target = rng.randint(1, 5)
+    tebakan = Ghaib
+    
+    Muter terus tebakan != target:
+        Coba ngab:
+            jawaban_user = Tanya netizen("Tebak angka 1 sampe 5 ngab: ")
+            tebakan = Angka(jawaban_user)
+            
+            Kalo lu nyawit tebakan == target:
+                spill("Fakta! Tebakan lu bener coy.")
+                Cabut
+            Kalo nanggung tebakan > target:
+                spill("Kegedean brok, turunin dikit.")
+            Kalo Meratapi:
+                spill("Kekecilan, naikin lagi!")
+                
+        Kalo meledak:
+            spill("Kagak valid! Masukin angka doang dong.")
+
+# Panggil fungsinya
+tebak_angka()
+

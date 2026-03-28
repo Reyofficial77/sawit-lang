@@ -1,0 +1,14 @@
+kondisi = Fakta
+angka = 10
+
+Kalo lu nyawit kondisi == Fakta:
+    spill("Yoi, ini valid coy!")
+    
+    Kalo lu nyawit angka > 5:
+        spill("Angkanya gede juga")
+    Kalo Meratapi:
+        spill("Angkanya kecil brok")
+        
+Kalo Meratapi:
+    spill("Kondisinya Hoax!")
+
